@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/(main)/profile/page": "app/(main)/profile/page.js",
+  "/(auth)/blocked/page": "app/(auth)/blocked/page.js",
+  "/(main)/notifications/page": "app/(main)/notifications/page.js",
+  "/(main)/home/page": "app/(main)/home/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js"
+}
